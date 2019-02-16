@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Beaglefoot/docker-frontend-udemy-subrepo.svg?branch=master)](https://travis-ci.com/Beaglefoot/docker-frontend-udemy-subrepo)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
